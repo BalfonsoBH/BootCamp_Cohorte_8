@@ -1,0 +1,34 @@
+.encabezado {
+    font-size: 72px;   /* las unidades de medida van sin espacio */
+    color: cadetblue;
+    background-color: rgb(45, 221, 75);
+    text-align: center;
+    text-transform: uppercase;
+
+} 
+#texto {
+    color: white;
+    background-color: rgba(34, 182, 54, 0.397);
+    font-style: italic;
+}
+.texto {
+    color: white;
+    background-color: black;
+}
+ body {
+     background-color: #e1e1e1;
+     }
+p {
+    color: white;
+    background-color: dimgrey;
+}
+p {
+    color: yellow;
+    background-color: teal;
+}
+/* las etiquetas tienen una especificidad 1 y las clases 10, por eso
+predomina */
+/* id tiene 100 */
+/* una clase es repetible, un id es unico */
+/* el 1000 es para el style en linea
+dentro de la propia etiqueta en html */

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="assets/css/tablas.css" type="text/css" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablas</title>
+</head>
+<body>
+    <h1>Tablas</h1>
+    <table>
+        <thead>
+            <!-- colspan crece hacia la derecha
+            rowspan crece hacia abajo -->
+            <!-- tr es una fila -->
+            <tr>
+                <!-- th cabecera de tabla -->
+                <th>Cabecera</th>
+                <th colspan="2">Cabecera</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>a</td>
+                <td>b</td>
+                <td rowspan="3">c</td>
+            </tr>
+            <tr>
+                <td>Hola</td>
+                <td>Saludos</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Pie de tabla</td>
+                <td>Pie de tabla</td>
+                <td>Pie de tabla</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>

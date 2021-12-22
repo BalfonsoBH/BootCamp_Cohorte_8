@@ -1,0 +1,39 @@
+body {
+    background-color:green;
+}
+h1 {
+    color: white;
+    text-shadow: 4px 4px 4px black;
+}
+.caja {
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+}
+.roja {
+    border: 10px solid rgb(211, 10, 10);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: white;
+    background-color: rgb(197, 51, 51);
+}
+.blanca {
+    background-color: white;
+    border: 10px solid black;
+    border-radius: 20px;
+    margin-left: 400px;
+}
+.amarilla {
+    color: white;
+    background-color: rgb(216, 192, 54);
+    border: 10px solid rgb(206, 177, 13);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 800px;
+}
+.azul {
+    color: white;
+    background-color: blue;
+    border: 5px dashed rgba(60, 60, 250, 0.925);
+    margin-left: 400px;
+}

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Lora:ital,wght@0,400;1,500;1,700&display=swap');
+
+h1 {
+    font-family: 'Lora', serif;
+    /* font-weight: 900; grosor de la letra*/
+    font-size: 60px;
+    font-weight: 900;
+}
+
+p {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Lora', serif;
+    font-weight:700;
+    font-size: 40px;
+}
+h2 {
+    font-family: 'Bangers', cursive;
+}

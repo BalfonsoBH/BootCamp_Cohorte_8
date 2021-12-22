@@ -1,0 +1,28 @@
+h1 {
+    font-family:arial;
+}
+
+body {
+    background-color:rgb(63, 158, 79) ;
+}
+
+.cursivab {
+    color: white;
+    font-style: italic;
+
+}
+.arialb2 {
+    color: wheat;
+    font-family: arial;
+
+}
+.amarillolg {
+    color: rgb(192, 192, 10);
+    font-size: 0.5cm;
+    font-family:sans-serif;
+
+}
+.rojocalibri {
+    color: red;
+    font-family: calibri;
+}

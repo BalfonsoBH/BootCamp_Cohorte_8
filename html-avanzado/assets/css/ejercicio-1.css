@@ -1,0 +1,77 @@
+/* .form1 {
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    padding: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    justify-content: center;
+    color: wheat;
+    text-align: center;
+    border: 20px solid steelblue;
+}
+label {
+    margin-right: 30px;
+}
+input {
+    width: 250px;
+    border: 3px solid red;
+}
+h3 {
+    text-align: left;
+}
+.linea {
+    text-align: left;
+    border-top: 2px dashed white;
+    margin-top: 70px;
+    padding: 20px;
+    width: 600px;
+} */
+.formulario {
+    margin-left: auto;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 500px;
+    height: 570px;
+    border: 15px solid rgb(116, 116, 235);
+    border-radius: 20px;
+    padding: 20px;
+    background-color: green;
+    color: wheat;
+}
+.p1 {
+    margin-bottom: 20px;
+    padding-left: 150px;
+}
+.a {
+    margin-right: 40px;
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 50px;
+
+} 
+.b {
+    border: 4px solid rgb(255, 51, 0);
+}
+.linea {
+    border-top: 3px dashed white;
+    padding-top: 20px;
+    width: 300px;
+}
+button {
+    width: 150px;
+    height: 40px; 
+    margin-left: 60px;
+    font-size: 15px;
+    font-style: inherit;
+}
+h3 {
+    padding-left: 60px;
+}
+input {
+    width: 200px;
+    height: 20px;
+

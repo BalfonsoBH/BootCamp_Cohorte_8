@@ -1,0 +1,22 @@
+h1 {
+    text-align: end;
+}
+body {
+    background-color: aquamarine;
+}
+.fondo {
+    background-color: white;
+    color: green;
+
+}
+.naranja {
+    color: orangered;
+    font-weight: bold;
+}
+.cs {
+    color: red;
+    font-family: "Comic sans";
+}
+p {
+    text-indent: 40px;
+}
