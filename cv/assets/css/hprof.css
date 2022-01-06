@@ -1,0 +1,56 @@
+body {
+    /* position: relative; */
+    background-color: #33424D;
+    padding: 200px;
+}
+.wavehabprog {
+    position: absolute;
+}
+.cuadro {
+    position: relative;
+    width: 1280px;
+    background-color: #4E687C;
+    border-color: 5px solid black;
+    padding: 20px;
+}
+.java {
+    width: 300px;
+    height: 300px;
+    opacity: 50%;
+}
+.javascript {
+    width: 300px;
+    height: 300px;
+    opacity: 50%;
+}
+.bootstrap {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 20px;
+    left: 25%;
+    right: 50%;
+    bottom: 50%;
+    opacity: 50%;
+}
+.css {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    left: 25%;
+    right: 50%;
+    bottom: 50%;
+    opacity: 50%;
+}
+.aws {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 20px;
+    left: 48.5%;
+    right: 50%;
+    bottom: 50%;
+    opacity: 50%;
+}
+
