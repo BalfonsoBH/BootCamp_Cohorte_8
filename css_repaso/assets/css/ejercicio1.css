@@ -1,0 +1,32 @@
+body {
+    background-color:#D3D3D3;
+
+}
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+} 
+.principal_content {
+    /* medidas relativas */
+    width: 90%;
+    margin: 0 auto;
+}
+.principal_content .contenido {
+    width: 80%;
+    margin: 0 auto;
+}
+.principal_content h3 {
+    background-color: gray;
+    color: white;
+    padding: 10px 5px;
+}
+.htmltext {
+    padding-left: 150px;
+}
+.htmlimg , .principal_content {
+    float: left;
+}
+.principal_content .contenido .htmltext p {
+    text-indent: 20px;
+    text-align: justify;
+}

@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;  
+}
+.menu {
+    background-color: tomato;
+    height: 50px;
+}
+.menu ul {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.menu .elementlist:hover {
+    border: 2px solid yellowgreen;
+    padding: 5px;
+}
+.elementlist {
+    display: inline-block;
+    margin: 0 20px;
+    /* margin: [arriba abajo] [izquierda Derecha] */
+    /* margin: arriba abajo izquierda derecha */
+}
+.elementlist a {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    transition: color 0.5s;
+}
+.elementlist a:hover {
+    color: yellowgreen;
+}

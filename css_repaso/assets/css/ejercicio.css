@@ -1,0 +1,41 @@
+body {
+    background-color: wheat;
+    padding: 10px 200px;
+}
+img {
+    width: 150px;
+    height: 200px;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+h2 {
+    background-color: grey;
+    color: white;
+    font-size: 40px;
+}
+img, p {
+    display: inline;
+}
+.parte1, .parte2 {
+    position: relative;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.parte1 p, .parte2 p {
+    position: absolute;
+    margin-left: 20px;
+    text-indent: 20px;
+}
+.a {
+    color: orangered;
+}
+.b {
+    background-color: white;
+    font-weight: bold;
+}
+p {
+    padding-right: 80px;
+    text-align: justify;
+}
